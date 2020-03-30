@@ -1,25 +1,25 @@
+import 'bootstrap/dist/css/bootstrap.min.css';
 import React from 'react';
-import logo from './logo.svg';
+import Area1 from './components/area1';
+import Area2 from './components/area2';
+import Area3 from './components/area3';
+import Area4 from './components/area4';
+import Footer from './components/footer';
 import './App.css';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <>
+      <Area1 />
+      <br />
+      <Area2 />
+      <br />
+      <Area3 />
+      <br />
+      <Area4 />
+      <br />
+      <Footer />
+    </>
   );
 }
 
