@@ -14,7 +14,7 @@ function Area3() {
             <Carousel.Item>
               <img 
                 className="d-block w-100"
-                src="https://cdn.pixabay.com/photo/2016/10/22/17/46/scotland-1761292_960_720.jpg"
+                src="https://cdn.pixabay.com/photo/2018/01/14/23/12/nature-3082832_960_720.jpg"
                 alt="First slide"
               />
               <Carousel.Caption>
@@ -26,7 +26,7 @@ function Area3() {
             <Carousel.Item>
               <img 
                 className="d-block w-100"
-                src="https://cdn.pixabay.com/photo/2015/12/01/20/28/green-1072828_960_720.jpg"
+                src="https://cdn.pixabay.com/photo/2018/01/14/23/12/nature-3082832_960_720.jpg"
                 alt="First slide"
               />
               <Carousel.Caption>
